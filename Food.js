@@ -1,7 +1,7 @@
 class Food {
 
     constructor() {
-        this.image = loadImage("/images/Milk.png");
+        this.image = loadImage("images/Milk.png");
     }
 
     //For Reading value of Firebase database index 'Food'
