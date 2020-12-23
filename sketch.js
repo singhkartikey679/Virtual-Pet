@@ -17,9 +17,9 @@ var gameState = "start";
 
 function preload() {
   //load images here
-  dogImg = loadImage("images/dogImg.png");
-  happyDog = loadImage("images/dogImg1.png");
-  dogHowlImg = loadImage("images/dogImgHowl.png");
+  dogImg = loadImage("dogImg.png");
+  happyDog = loadImage("dogImg1.png");
+  dogHowlImg = loadImage("dogImgHowl.png");
 }
 
 function setup() {
